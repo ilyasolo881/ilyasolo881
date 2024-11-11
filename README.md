@@ -43,7 +43,7 @@
 
 <h3>Other skills</h3>
 <div>
-  <img height="24px" src="https://img.shields.io/badge/-Webflow-146EF5?style=flat&logo=webflow&logoColor=white" />
+  <img height="24px" src="https://img.shields.io/badge/-Webflow-000000?style=flat&logo=webflow&logoColor=white" />
   <img height="24px" src="https://img.shields.io/badge/-OOP-000000?style=flat" />
   <img height="24px" src="https://img.shields.io/badge/-Algorithms-000000?style=flat" />
 </div>
