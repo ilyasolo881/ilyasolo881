@@ -91,6 +91,6 @@
 <h1>My contacts</h1>
 <div>
   <a href="https://t.me/illia_solo"><img height="24px" src="https://img.shields.io/badge/-Telegram-000000?style=flat&logo=telegram" /></a>
-  <a href="www.linkedin.com/in/illia-solonetskyi-b871a52bb"><img height="24px" src="https://img.shields.io/badge/-LinkedIn-000000?style=flat&logo=linkedin" /></a>
+  <a href="https://www.linkedin.com/in/illia-solonetskyi-b871a52bb/"><img height="24px" src="https://img.shields.io/badge/-LinkedIn-000000?style=flat&logo=linkedin" /></a>
   <a href="mailto:illia.solonetskyi.dev@gmail.com"><img height="24px" src="https://img.shields.io/badge/-Email-000000?style=flat&logo=gmail" /></a>
 </div>
