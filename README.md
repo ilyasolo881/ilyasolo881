@@ -1,5 +1,3 @@
-<img src="./assets/banner.jpg">
-
 <h1>About me</h1>
 <ul>
   <li>📓 One year of programming experience</li>
