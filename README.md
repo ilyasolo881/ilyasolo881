@@ -1,7 +1,7 @@
 <h1>About me</h1>
 <ul>
   <li>📓 One year of programming experience</li>
-  <li>💻 Full-stack developer specializing in web development</li>
+  <li>💻 Front-end developer specializing in web development</li>
   <li>🌍 English proficiency at B1 level</li>
   <li>🤝 Team-oriented and collaborative</li>
   <li>🔍 Problem-solving mindset</li>
@@ -20,14 +20,6 @@
   <img height="24px" src="https://img.shields.io/badge/-Zustand-000000?style=flat" />
   <img height="24px" src="https://img.shields.io/badge/-Bulma-000000?style=flat&logo=bulma" />
   <img height="24px" src="https://img.shields.io/badge/-Vite-000000?style=flat&logo=vite" />
-  <img height="24px" src="https://img.shields.io/badge/-REST_API-000000?style=flat" />
-</div>
-
-<h3>Back-end</h3>
-<div>
-  <img height="24px" src="https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js" />
-  <img height="24px" src="https://img.shields.io/badge/-Express-000000?style=flat&logo=express" />
-  <img height="24px" src="https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql" />
 </div>
 
 <h3>Tools</h3>
@@ -48,8 +40,9 @@
 
 <h3>Learning Now</h3>
 <div>
-  <img height="24px" src="https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js" />
-  <img height="24px" src="https://img.shields.io/badge/-Tailwind-000000?style=flat&logo=tailwindcss" />
+  <img height="24px" src="https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js" />
+  <img height="24px" src="https://img.shields.io/badge/-Express-000000?style=flat&logo=express" />
+  <img height="24px" src="https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql" />
 </div>
 
 <h1>Projects</h1>
